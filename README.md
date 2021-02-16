@@ -9,3 +9,7 @@ Git トレーニング
 
 * name test////
  * test push -----------!!!!!!!!!!!!!!!
+ 
+* name sample
+ 
+ 
