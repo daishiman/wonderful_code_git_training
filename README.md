@@ -1,5 +1,5 @@
 # wonderful_code_git_training
 Git トレーニング
 
-* 名前： だいし　まんじゅもと
+* 名前： 仮１
   * 好きなメソッド：　map
